@@ -12,14 +12,14 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 nav {
     text-align: center;
     color: #fff;
-}
-nav a {
-    color: #41b883;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-        'Open Sans', 'Helvetica Neue', sans-serif;
+    a {
+        color: #41b883;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+            'Open Sans', 'Helvetica Neue', sans-serif;
+    }
 }
 </style>
