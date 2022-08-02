@@ -18,12 +18,14 @@
     "devDependencies": {
         "@parcel/core": "^2.6.2",
         "@parcel/transformer-vue": "^2.6.2",
+        "husky": "^8.0.0",
         "parcel": "^2.6.2",
         "prettier": "^2.7.1",
-        "serve": "^14.0.1",
-        "husky": "^8.0.0"
+        "serve": "^14.0.1"
     },
     "dependencies": {
-        "vue": "^3.2.37"
+        "nprogress": "^0.2.0",
+        "vue": "^3.2.37",
+        "vue-router": "^4.1.3"
     }
 }
