@@ -8,7 +8,7 @@ specifiers:
   nprogress: 0.2.0
   parcel: 2.8.0
   prettier: 2.7.1
-  serve: 14.1.1
+  serve: 14.1.2
   vue: 3.2.45
   vue-router: 4.1.6
 
@@ -24,7 +24,7 @@ devDependencies:
   husky: 8.0.2
   parcel: 2.8.0
   prettier: 2.7.1
-  serve: 14.1.1
+  serve: 14.1.2
 
 packages:
 
@@ -2440,8 +2440,8 @@ packages:
       range-parser: 1.2.0
     dev: true
 
-  /serve/14.1.1:
-    resolution: {integrity: sha512-7RhRDEirZ7Qyee4QWhBHO9qRtjIGsIPGecDDPzNzlOsjDiZWcq36GS8FioVJAuJPVJBBDTsGp33WWOO4B9A82g==}
+  /serve/14.1.2:
+    resolution: {integrity: sha512-luwVfJwbeE7dhCKeRU0vIBpt4bXdbAfzwsWJIQ5eqrIW2e+4nLWXbSlZ0WzelSFHQq+FlueOW6dr90jEewS9zw==}
     engines: {node: '>= 14'}
     hasBin: true
     dependencies:
