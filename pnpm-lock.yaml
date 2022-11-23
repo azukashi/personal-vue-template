@@ -7,7 +7,7 @@ specifiers:
   husky: 8.0.2
   nprogress: 0.2.0
   parcel: 2.8.0
-  prettier: 2.7.1
+  prettier: 2.8.0
   serve: 14.1.2
   vue: 3.2.45
   vue-router: 4.1.6
@@ -23,7 +23,7 @@ devDependencies:
   '@parcel/transformer-vue': 2.8.0_@parcel+core@2.8.0
   husky: 8.0.2
   parcel: 2.8.0
-  prettier: 2.7.1
+  prettier: 2.8.0
   serve: 14.1.2
 
 packages:
@@ -2330,8 +2330,8 @@ packages:
       posthtml-render: 3.0.0
     dev: true
 
-  /prettier/2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+  /prettier/2.8.0:
+    resolution: {integrity: sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
