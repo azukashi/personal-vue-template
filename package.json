@@ -22,7 +22,7 @@
         "husky": "8.0.3",
         "parcel": "2.8.3",
         "prettier": "2.8.3",
-        "serve": "14.1.2"
+        "serve": "14.2.0"
     },
     "dependencies": {
         "nprogress": "0.2.0",
